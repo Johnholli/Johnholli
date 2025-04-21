@@ -12,6 +12,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Johnholli/Threat_Hunt_Event_-TOR-Usage-.md)**
 
+## ☁️ Cloud Projects
+
+Real-world AWS projects demonstrating infrastructure setup, security configuration, and automation using the AWS Console and CLI.
+
+- **[Deploy and host a static website using S3]()**
+
 <hr/>
 
 ## 🤳 Connect With Me
