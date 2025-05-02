@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 Real-world AWS projects demonstrating infrastructure setup, security configuration, and automation using the AWS Console and CLI.
 
 - **[Deploy and host a static website using S3](https://github.com/Johnholli/cloud-projects/tree/main/s3-static-website-hosting)**
-
+- **[Deploy WordPress on Ubuntu EC2](https://github.com/Johnholli/cloud-projects/tree/main/wordpress-ec2)**
 <hr/>
 
 ## 🤳 Connect With Me
