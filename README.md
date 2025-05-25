@@ -18,6 +18,7 @@ Real-world AWS projects demonstrating infrastructure setup, security configurati
 
 - **[Deploy and host a static website using S3](https://github.com/Johnholli/cloud-projects/tree/main/s3-static-website-hosting)**
 - **[Deploy WordPress on Ubuntu EC2](https://github.com/Johnholli/cloud-projects/tree/main/wordpress-ec2)**
+- **[Build a Task Scheduler App on Amazon PartyRock](https://github.com/Johnholli/cloud-projects/tree/main/partyrock-task-scheduler)**
 <hr/>
 
 ## 🤳 Connect With Me
